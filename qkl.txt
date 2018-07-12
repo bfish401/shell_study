@@ -1,5 +1,4 @@
 区块链初步了解参考资料
-区块链实验室-内网wiki空间 http://wiki.tongdun.me/pages/viewpage.action?pageId=23774123
 
 第一个Fabric网络 https://hyperledgercn.github.io/hyperledgerDocs/build_network_zh
 
@@ -40,7 +39,6 @@ Hyperledger Fabric 1.0 实战开发系列 第三课 chaincode开发 https://blog
 
 区块链 - http://www.cnblogs.com/studyzy/tag/%E5%8C%BA%E5%9D%97%E9%93%BE/
 
-。。。
 
 论坛： https://www.qkldx.net/category/7/hyperledger
 
