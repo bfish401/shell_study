@@ -1,0 +1,86 @@
+区块链初步了解参考资料
+区块链实验室-内网wiki空间 http://wiki.tongdun.me/pages/viewpage.action?pageId=23774123
+
+第一个Fabric网络 https://hyperledgercn.github.io/hyperledgerDocs/build_network_zh
+
+Chaincode 开发手册 https://hyperledgercn.github.io/hyperledgerDocs/chaincode_developers_zh/
+
+编写第一个应用 https://hyperledgercn.github.io/hyperledgerDocs/write_first_app_zh/
+
+Fabric 部署与管理 https://yeasy.gitbooks.io/blockchain_guide/fabric/ https://yeasy.gitbooks.io/blockchain_guide/fabric/1.0.html
+
+Hyperledger中数据存取的实现 http://www.cnblogs.com/huyouhengbc/p/5967428.html
+
+Hyperledger Fabric1.0架构概览 http://www.sohu.com/a/125549468_104036
+
+恒生 两步搞定Hyperledger主打区块链解决方案Fabric http://rdcqii.hundsun.com/portal/article/661.html
+
+链码（chaincode）开发精解，搭建属于自己的区块链！ http://rdcqii.hundsun.com/portal/article/694.html
+
+Fabric系统设计和交易流程 https://www.jianshu.com/p/9cdfe7a61717
+
+知乎参考： 系列零散文章： https://www.zhihu.com/people/square-blockchain/posts?page=2
+
+Blockchain区块链架构设计之六：Fabric 1.0账本设计 https://zhuanlan.zhihu.com/p/25119939
+
+fabric源码解析 https://blog.csdn.net/idsuf698987/article/details/74907281
+
+分享 Hyperledger Fabric Chaincode 开发 https://mp.weixin.qq.com/s/-xsCQGo-DdnNK3z3V1fmeA
+
+http://8btc.com/article-4514-1.html
+
+超级账本Fabric的架构与设计 https://blog.csdn.net/Blockchain_lemon/article/details/77878875
+
+系列
+Hyperledger Fabric 1.0 实战开发系列 第一课 系统环境搭建 https://blog.csdn.net/tiandiwuya/article/details/78767244
+
+Hyperledger Fabric 1.0 实战开发系列 第二课 Fabric环境搭建 https://blog.csdn.net/tiandiwuya/article/details/78771475
+
+Hyperledger Fabric 1.0 实战开发系列 第三课 chaincode开发 https://blog.csdn.net/tiandiwuya/article/details/78807504
+
+区块链 - http://www.cnblogs.com/studyzy/tag/%E5%8C%BA%E5%9D%97%E9%93%BE/
+
+。。。
+
+论坛： https://www.qkldx.net/category/7/hyperledger
+
+使用一个简单工具向现有的 Hyperledger Fabric 区块链网络添加一个组织 https://www.ibm.com/developerworks/cn/cloud/library/cl-add-an-organization-to-your-hyperledger-fabric-blockchain/index.html
+
+IBM区块链和HyperLedger第三讲：Hyperledger Fabric架构解读 https://www.ibm.com/developerworks/community/wikis/home?lang=zh#!/wiki/W30b0c771924e_49d2_b3b7_88a2a2bc2e43/page/%E5%8C%BA%E5%9D%97%E9%93%BE%E5%92%8CHyperLedger%E7%AC%AC%E4%B8%89%E8%AE%B2%EF%BC%9AHyperledger%20Fabric%E6%9E%B6%E6%9E%84%E8%A7%A3%E8%AF%BB
+
+Hyperledger Fabric V1.0学习之---从开发者的角度看链码 http://www.blockchainbrother.com/article/262
+
+老版本，有需要按官方文档调整，有可能有版本坑的 Hyperledger Fabric V1.0学习之---在mac上配置hyperledger fabric http://www.blockchainbrother.com/article/260
+
+Hyperledger Fabric chaincode 学习1（开发调试） https://www.qkldx.net/topic/213/hyperledger-fabric-chaincode-%E5%AD%A6%E4%B9%A01-%E5%BC%80%E5%8F%91%E8%B0%83%E8%AF%95
+
+Go + Docker API服务开发和部署 - 开发篇 https://www.jaggerwang.net/develop-and-deploy-api-service-with-go-and-docker-develop/
+
+Go资源
+awesome-go https://github.com/avelino/awesome-go https://github.com/hackstoic/golang-open-source-projects https://github.com/gostor/awesome-go-storage https://www.zhihu.com/question/20801814
+
+nsq
+https://github.com/nsqio/nsq http://nsq.io/overview/quick_start.html http://nsq.io/overview/design.html 
+初识NSQ分布式实时消息架构 https://blog.csdn.net/charn000/article/details/48109665
+
+$ git clone https://github.com/nsqio/nsq $GOPATH/src/github.com/nsqio/nsq
+$ cd $GOPATH/src/github.com/nsqio/nsq
+$ dep ensure
+
+关闭nsq <br>
+ps -ef | grep nsq| grep -v grep | awk '{print $2}' | xargs kill -2
+视频 区块链征信(4)-Web数据写入到以太坊 https://v.qq.com/x/page/p03580wqcsh.html http://v.qq.com/vplus/7d7915d8b1b5f98d8cd6e6189ae90664
+
+Netkiller Blockchain 手札 http://www.netkiller.cn/blockchain/index.html
+
+升级chaincode http://www.cnblogs.com/preminem/p/7874697.html
+
+Fabric动态增加组织【资料】 http://www.cnblogs.com/studyzy/p/7451299.html
+
+Hyperledger Fabric in practice. Main components and running them locally https://medium.com/@vitaly.bezgachev/hyperledger-fabric-in-practice-part-1-main-components-and-running-them-locally-aa4b805465fa
+
+Transaction Flow http://hyperledger-fabric.readthedocs.io/en/latest/txflow.html
+
+使用Go语言从零编写PoS区块链（译) http://chaingod.io/article/16 https://medium.com/@mycoralhealth/code-your-own-proof-of-stake-blockchain-in-go-610cd99aa658
+
+
